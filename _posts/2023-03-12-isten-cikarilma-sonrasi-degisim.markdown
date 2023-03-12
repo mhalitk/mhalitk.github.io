@@ -1,4 +1,9 @@
-# İşten çıkarılma sonrası değişim ve yeniden başlama süreci
+---
+layout: post
+title:  "İşten çıkarılma sonrası değişim ve yeniden başlama süreci"
+date:   2023-03-12 06:31:28 -0700
+categories: layoff
+---
 
 Ben Muhammet Halit, yazılım mühendisiyim. Bundan 4 ay önce çalıştığım şirketin (Meta/WhatsApp) toplu işten çıkarma kararıyla işten çıkarıldım, ve benim hayatımda uzun süredir beklediğim bir milat gerçekleşti. 4 ayda değişenleri ve bundan sonraki adımlarımı da yazacağım bir seriyi bu yazıyla başlatıyorum.
 
