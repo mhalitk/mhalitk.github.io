@@ -20,12 +20,12 @@
 
 title: Muhammet Halit Karakış
 email: halidk@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Bir yazılım mühendisinin serüveni
 domain: mhalitk.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mhalitk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mharakis
+baseurl: "" 
+url: "https://mhalitk.github.io"
+twitter_username: mhkarakis
 github_username:  mhalitk
 
 # Build settings
